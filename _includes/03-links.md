@@ -1,2 +1,1 @@
-
-([Cats] (https://cat-bounce.com))
+[GitHub](http://github.com)
