@@ -1,1 +1,1 @@
-[Cats Site] (https://cat-bounce.com)
+[Cats] (https://cat-bounce.com)
